@@ -4,6 +4,7 @@
 	let value: any;
 </script>
 
+
 <section class="flex items-center justify-center min-h-screen mx-auto">
 	<form method="POST" action="?/search" use:enhance>
 		<Card class="w-96 py-8 flex flex-col space-y-6">
